@@ -39,7 +39,7 @@ html {
 
 body {
   margin: 0;
-  background-image: url(http://nodebeach.com/bonobocast/images/bonobo.jpg);
+  background-image: url('/bonobocast/images/bonobo.jpg');
 }
 
 a {
