@@ -39,7 +39,7 @@ html {
 
 body {
   margin: 0;
-  background-image: url('/bonobocast/images/bonobo.jpg');
+
 }
 
 a {
@@ -9033,7 +9033,7 @@ a .icon-flip-vertical:before {
 }
 
 body {
-  background: url("/images/bonobo.jpg");
+  background: url('/bonobocast/images/bonobo.jpg');
 }
 
 audio,
