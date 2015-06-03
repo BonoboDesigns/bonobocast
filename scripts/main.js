@@ -1,1 +1,1 @@
-console.log('hello world');
+$('#aboutModal').modal('show'); 

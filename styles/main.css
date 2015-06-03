@@ -9031,6 +9031,10 @@ a .icon-flip-vertical:before {
   margin: 50px auto 0 auto;
 }
 
+body {
+  background: url("/images/bonobo.jpg");
+}
+
 audio,
 video {
   width: 45%;
