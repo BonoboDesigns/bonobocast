@@ -1,5 +1,13 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
 video {
-    width: 30%;
+    width: 100%;
 }
 button, input, select {
     font-family: Myriad, Arial, Verdana;
