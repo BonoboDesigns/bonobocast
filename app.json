@@ -1,0 +1,7 @@
+{
+  "name": "Bonobocast",
+  "description": "Peer to peer live video broadcasting service",
+  "repository": "https://github.com/bredfern/bonobocast",
+  "logo": "http://bonobocast.herokuapp.com/Monkey.svg",
+  "keywords": ["node", "express", "static"]
+}
