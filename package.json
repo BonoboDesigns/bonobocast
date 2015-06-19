@@ -1,11 +1,11 @@
 {
-  "name": "webrtc-scalable-broadcast",
+  "name": "bonobocast",
   "preferGlobal": false,
   "version": "1.0.1",
   "author": {
-    "name": "Muaz Khan",
-    "email": "muazkh@gmail.com",
-    "url": "http://www.muazkhan.com/"
+    "name": "Brian Redfern",
+    "email": "brianwredfern@gmail.com",
+    "url": "http://www.nodebeach.com/"
   },
   "description": "Scalable WebRTC peer-to-peer broadcasting demo.",
   "scripts": {
